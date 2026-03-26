@@ -8,9 +8,10 @@ st.set_page_config(page_title="EduAnalytics Bot", layout="centered")
 # --- LOAD THE EXPORTED MODEL ---
 @st.cache_resource
 def load_assets():
-    with open('student_model.pkl', 'rb') as f:
+    # Change these lines:
+    with open('models/student_model.pkl', 'rb') as f:
         model = pickle.load(f)
-    with open('model_columns.pkl', 'rb') as f:
+    with open('models/model_columns.pkl', 'rb') as f:
         cols = pickle.load(f)
     return model, cols
 
