@@ -1,8 +1,15 @@
-### 🎓 EduAnalytics-Chatbot
-
 [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge.svg)](https://harshitchauhann95-eduanalytics-chatbot-app-btc5ur.streamlit.app/)
+[![GitHub stars](https://img.shields.io/github/stars/harshitchauhann95/EduAnalytics-Chatbot?style=social)](https://github.com/harshitchauhann95/EduAnalytics-Chatbot/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/harshitchauhann95/EduAnalytics-Chatbot?style=social)](https://github.com/harshitchauhann95/EduAnalytics-Chatbot/network/members)
+[![Python](https://img.shields.io/badge/Python-3.8%2B-blue?logo=python&logoColor=white)](https://www.python.org/)
+[![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white)](https://streamlit.io/)
+[![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?logo=scikit-learn&logoColor=white)](https://scikit-learn.org/)
+[![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)](https://pandas.pydata.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
+[![GitHub repo size](https://img.shields.io/github/repo-size/harshitchauhann95/EduAnalytics-Chatbot)](https://github.com/harshitchauhann95/EduAnalytics-Chatbot)
+[![GitHub last commit](https://img.shields.io/github/last-commit/harshitchauhann95/EduAnalytics-Chatbot)](https://github.com/harshitchauhann95/EduAnalytics-Chatbot)
+
+### 🎓 EduAnalytics-Chatbot
 
 EduAnalytics-Chatbot is a Machine Learning-powered web application designed to predict student academic performance. By analyzing internal assessment scores and lifestyle factors, the tool provides early warnings for students who might be at risk, allowing for timely academic intervention.
 
@@ -68,6 +75,11 @@ pip install -r requirements.txt
 ```bash
 streamlit run app.py
 ```
+## 📸 Interface Preview
+<img width="1440" height="789" alt="Screenshot 2026-04-19 at 3 43 45 AM" src="https://github.com/user-attachments/assets/cb7d1957-b405-46a5-93b1-4dc97fff262f" />
+
+
+---
 ## 📝 Usage
 
 1. **Open the sidebar** in the web app.
